@@ -1,0 +1,1 @@
+yoUDay miatt elmaradt
