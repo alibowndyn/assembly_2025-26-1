@@ -50,8 +50,8 @@ OUT:	ret
 #		else
 #			return c;
 #	else
-#		if (a>b)
-#			return a;
+#		if (b>c)
+#			return b;
 #		else
 #			return c;
 #}
